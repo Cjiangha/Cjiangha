@@ -8,6 +8,21 @@ I'm Cjiang
 - 😄 Pronouns: '小小江'
 - ⚡ Fun fact: Learn the Blues harmonica 、raise cats 、cooking 、traveling ....
 
-![Github贡献值](https://github-readme-stats.vercel.app/api?username=Cjiangha)
-
-![技能点](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjiangha)
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjiangha" width="100%" />
+				<br/>
+				<!-- <font color="AAAAAA">002.jpg</font> -->
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="https://github-readme-stats.vercel.app/api?username=Cjiangha" width="100%" />
+				<br/>
+				<!-- <font color="AAAAAA">001.jpg</font> -->
+			</center>
+		</td>
+	</tr>
+</table>
