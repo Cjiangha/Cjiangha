@@ -30,6 +30,6 @@ I'm Cjiang
 </table>
 
 ### Project
-`[school-website](https://cjiangha.github.io/SchoolWebsite/)`
+**[school-website](https://cjiangha.github.io/SchoolWebsite/)**
 
-`[vue-manager](https://cjiangha.github.io/vue-manager/dist/)`
+**[vue-manager](https://cjiangha.github.io/vue-manager/dist/)**
