@@ -5,9 +5,11 @@ I'm Cjiang
 - 🌱 I’m currently learning Taro + Vue3 , blender ......
 - 🤔 I’m looking for help with the wechat groups or the QQ groups or friends,they can provide me a thinking
 - 📫 How to reach me: QQ 445620536  
-- 😄 Pronouns: '小小江'
+- 😄 Pronouns: '小江'
 - ⚡ Fun fact: Learn the Blues harmonica 、raise cats 、cooking 、traveling ....
 
+
+###  Skill Tree And Github Routine 
 <table rules="none" align="center">
 	<tr>
 		<td>
@@ -26,3 +28,7 @@ I'm Cjiang
 		</td>
 	</tr>
 </table>
+
+### Project
+[school-website](https://cjiangha.github.io/SchoolWebsite/)
+[vue-manager](https://cjiangha.github.io/vue-manager/dist/)
