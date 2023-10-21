@@ -1,12 +1,7 @@
 ### Hi there 👋
 I'm Cjiang
 
-- 🔭 I worked on Wechat before
-- 🌱 I’m currently learning Taro + Vue3 、qiankun、Linux......
-- 🤔 I’m looking for help with the wechat groups or the QQ groups or friends,they can provide me a thinking
-- 📫 How to reach me: QQ 445620536  
-- 😄 Pronouns: '小江'
-- ⚡ Fun fact: Learn the Blues harmonica 、raise cats 、cooking 、traveling ....
+- 🔭 I am a Front-end developer,nice to meet you.
 
 
 ###  Skill Tree And Github Routine 
