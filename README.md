@@ -29,8 +29,6 @@ I'm Cjiang
 	</tr>
 </table>
 
-### Execise Project
+### Project
 
 **[vue-manager](https://cjiangha.github.io/vue-manager/dist/)**
-
-**[school-website](https://cjiangha.github.io/SchoolWebsite/)**
